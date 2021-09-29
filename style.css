@@ -1,0 +1,21 @@
+/*  Colours: 
+    #ED6A5A : Red
+    #C84630 : Red2
+    #159315 : Green
+    #ADFF4E : Lime
+    #CDCDCD : Grey
+    #EFD5C3 : Champagne Pink
+     
+    
+    */
+
+    header {
+        background-color: #159315;
+        /* display: flex; */
+    }
+
+    img#logo {
+        max-width: 150px;
+        height: auto;
+        
+    }
